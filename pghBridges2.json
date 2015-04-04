@@ -5,7 +5,9 @@
       "type": "Feature",
       "properties": {
         "name": "Monongahela Connecting Railroad Bridge",
-        "altname": "Hot Metal Bridge"
+        "altname": "Hot Metal Bridge",
+        "yearbuilt": "1887",
+        "bridgetype": "Truss Bridge"
       },
       "geometry": {
         "type": "LineString",
