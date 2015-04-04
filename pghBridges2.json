@@ -1,0 +1,25 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Monongahela Connecting Railroad Bridge",
+        "altname": "Hot Metal Bridge"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -79.9618810415268,
+            40.42758980589985
+          ],
+          [
+            -79.9594509601593,
+            40.42899452732736
+          ]
+        ]
+      }
+    }
+  ]
+}
