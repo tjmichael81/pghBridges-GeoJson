@@ -9,7 +9,8 @@
         "yearbuilt": "1887",
         "bridgetype": "Truss Bridge",
         "wikipedia": "http://en.wikipedia.org/wiki/Hot_Metal_Bridge",
-        "pghbridgeslink": "http://pghbridges.com/pittsburghE/0588-4475/hotmetal.htm"
+        "pghbridgeslink": "http://pghbridges.com/pittsburghE/0588-4475/hotmetal.htm",
+        "pghbridgesimg": "http://pghbridges.com/pittsburghE/0588-4475/monconn.GIF"
       },
       "geometry": {
         "type": "LineString",
