@@ -56,14 +56,14 @@
     {
       "type": "Feature",
       "properties": {
-        "name": "",
-        "altname": "",
-        "river": "",
-        "yearbuilt": "",
-        "bridgetype": "",
-        "wikipedia": "",
-        "pghbridgeslink": "",
-        "pghbridgesimg": ""
+        "name": "Birmingham Bridge",
+        "altname": "Brady Street Bridge",
+        "river": "Monongahela",
+        "yearbuilt": "1976",
+        "bridgetype": "Steel Bowstring Arch Bridge",
+        "wikipedia": "https://en.wikipedia.org/wiki/Birmingham_Bridge",
+        "pghbridgeslink": "http://pghbridges.com/pittsburghE/0587-4476/birmingham.htm",
+        "pghbridgesimg": "http://pghbridges.com/pittsburghE/0587-4476/birmingham.GIF"
       },
       "geometry": {
         "type": "LineString",
