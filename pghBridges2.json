@@ -6,6 +6,7 @@
       "properties": {
         "name": "Monongahela Connecting Railroad Bridge",
         "altname": "Hot Metal Bridge",
+        "river": "Monogahela",
         "yearbuilt": "1887",
         "bridgetype": "Truss Bridge",
         "wikipedia": "http://en.wikipedia.org/wiki/Hot_Metal_Bridge",
