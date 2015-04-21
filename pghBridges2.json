@@ -52,6 +52,32 @@
           ]
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "",
+        "altname": "",
+        "river": "",
+        "yearbuilt": "",
+        "bridgetype": "",
+        "wikipedia": "",
+        "pghbridgeslink": "",
+        "pghbridgesimg": ""
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -79.973806142807,
+            40.431840631666276
+          ],
+          [
+            -79.9733018875122,
+            40.43447837691433
+          ]
+        ]
+      }
     }
   ]
 }
