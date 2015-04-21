@@ -6,7 +6,7 @@
       "properties": {
         "name": "Monongahela Connecting Railroad Bridge",
         "altname": "Hot Metal Bridge",
-        "river": "Monogahela",
+        "river": "Monongahela",
         "yearbuilt": "1887",
         "bridgetype": "Truss Bridge",
         "wikipedia": "http://en.wikipedia.org/wiki/Hot_Metal_Bridge",
@@ -29,7 +29,16 @@
     },
     {
       "type": "Feature",
-      "properties": {},
+      "properties": {
+        "name": "Philip Murray Bridge",
+        "altname": "South Tenth Street Bridge",
+        "river": "Monongahela",
+        "yearbuilt": "1933",
+        "bridgetype": "Suspension Bridge",
+        "wikipedia": "https://en.wikipedia.org/wiki/South_Tenth_Street_Bridge",
+        "pghbridgeslink": "http://pghbridges.com/pittsburghE/0585-4476/s10th.htm",
+        "pghbridgesimg": "http://pghbridges.com/pittsburghE/0585-4476/stenth.GIF"
+      },
       "geometry": {
         "type": "LineString",
         "coordinates": [
