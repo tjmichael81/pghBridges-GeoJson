@@ -82,14 +82,14 @@
     {
       "type": "Feature",
       "properties": {
-        "name": "",
-        "altname": "",
-        "river": "",
-        "yearbuilt": "",
-        "bridgetype": "",
-        "wikipedia": "",
-        "pghbridgeslink": "",
-        "pghbridgesimg": ""
+        "name": "Liberty Bridge",
+        "altname": "South Hills Bridge",
+        "river": "Monongahela",
+        "yearbuilt": "1928",
+        "bridgetype": "Cantilever Bridge",
+        "wikipedia": "https://en.wikipedia.org/wiki/Liberty_Bridge_(Pittsburgh)",
+        "pghbridgeslink": "http://pghbridges.com/pittsburghE/0585-4476/libertybr.htm",
+        "pghbridgesimg": "http://pghbridges.com/pittsburghE/0585-4476/liberty.GIF"
       },
       "geometry": {
         "type": "LineString",
