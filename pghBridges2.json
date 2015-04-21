@@ -130,6 +130,32 @@
           ]
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Smithfield Street Bridge",
+        "altname": "",
+        "river": "Monongahela",
+        "yearbuilt": "1883",
+        "bridgetype": "Lenticular Truss Bridge",
+        "wikipedia": "https://en.wikipedia.org/wiki/Smithfield_Street_Bridge",
+        "pghbridgeslink": "http://pghbridges.com/pittsburghW/0584-4476/smithfield.htm",
+        "pghbridgesimg": "http://pghbridges.com/pittsburghW/0584-4476/smithfield.gif"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -80.0029456615448,
+            40.43360458422185
+          ],
+          [
+            -80.0011110305786,
+            40.436389248467194
+          ]
+        ]
+      }
     }
   ]
 }
