@@ -108,14 +108,14 @@
     {
       "type": "Feature",
       "properties": {
-        "name": "",
-        "altname": "",
-        "river": "",
-        "yearbuilt": "",
-        "bridgetype": "",
-        "wikipedia": "",
-        "pghbridgeslink": "",
-        "pghbridgesimg": ""
+        "name": "Monongahela River Bridge",
+        "altname": "Panhandle Bridge",
+        "river": "Monongahela",
+        "yearbuilt": "1903",
+        "bridgetype": "Truss Bridge",
+        "wikipedia": "https://en.wikipedia.org/wiki/Panhandle_Bridge",
+        "pghbridgeslink": "http://pghbridges.com/pittsburghE/0584-4476/panhandle.htm",
+        "pghbridgesimg": "http://pghbridges.com/pittsburghE/0584-4476/panhandle.GIF"
       },
       "geometry": {
         "type": "LineString",
