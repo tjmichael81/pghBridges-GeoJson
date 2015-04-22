@@ -159,7 +159,16 @@
     },
     {
       "type": "Feature",
-      "properties": {},
+      "properties": {
+        "name": "Fort Pitt Bridge",
+        "altname": "",
+        "river": "Monongahela",
+        "yearbuilt": "1959",
+        "bridgetype": "Steel Bowstring Arch Bridge",
+        "wikipedia": "https://en.wikipedia.org/wiki/Fort_Pitt_Bridge",
+        "pghbridgeslink": "http://pghbridges.com/pittsburghW/0583-4476/ft_pitt_br.htm",
+        "pghbridgesimg": "http://pghbridges.com/pittsburghW/0583-4476/ft_pitt.GIF"
+      },
       "geometry": {
         "type": "LineString",
         "coordinates": [
