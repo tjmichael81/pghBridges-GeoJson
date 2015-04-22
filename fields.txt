@@ -1,0 +1,10 @@
+{
+        "name": "",
+        "altname": "",
+        "river": "",
+        "yearbuilt": "",
+        "bridgetype": "",
+        "wikipedia": "",
+        "pghbridgeslink": "",
+        "pghbridgesimg": ""
+      }
