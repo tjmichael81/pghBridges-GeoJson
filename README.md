@@ -7,7 +7,9 @@ time:
 
 - "name" - 'Offical' name of bridge
 - "altname" - Alternate / local name of bridge
+- "river" - River that bridge crosses
 - "yearbuilt" - Year Built
 - "bridgetype" - Bridge type
 - "wikipedia" - Link to Wikipedia page
-- "pghbridges" - Link to pghbridges.com page
+- "pghbridgeslink" - Link to pghbridges.com page
+- "pghbridgesimg" - Link to elevation drawing on pghbridges.com page
